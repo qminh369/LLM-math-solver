@@ -1,0 +1,41 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 14278634,
+  "description": "",
+  "download_checksums": {
+    "/content/drive/MyDrive/AI Challenge/val.json": {
+      "num_bytes": 15574586,
+      "checksum": null
+    }
+  },
+  "download_size": 15574586,
+  "features": {
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 29853220,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 14278634,
+      "num_examples": 9207,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
